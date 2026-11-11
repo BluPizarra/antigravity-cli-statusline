@@ -1,11 +1,11 @@
 # Antigravity CLI Status Line
 
-[![Python](https://img.shields.io/badge/Python-3.x-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-[![Bash](https://img.shields.io/badge/Bash-GNU-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)](https://www.gnu.org/software/bash/)
-[![PowerShell](https://img.shields.io/badge/PowerShell-5.1%2B-5391FE?style=for-the-badge&logo=powershell&logoColor=white)](https://microsoft.com/powershell)
-[![Windows](https://img.shields.io/badge/Platform-Windows%20%7C%20macOS%20%7C%20Linux-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/BluPizarra/antigravity-cli-statusline)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](LICENSE)
-[![Academic](https://img.shields.io/badge/APC-BSIT%20Information%20Technology-B3665B?style=for-the-badge)](https://www.apc.edu.ph/)
+[![Python](https://img.shields.io/badge/Python-3.x-404258?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![Bash](https://img.shields.io/badge/Bash-GNU-474E68?style=for-the-badge&logo=gnubash&logoColor=white)](https://www.gnu.org/software/bash/)
+[![PowerShell](https://img.shields.io/badge/PowerShell-5.1%2B-50577A?style=for-the-badge&logo=powershell&logoColor=white)](https://microsoft.com/powershell)
+[![Windows](https://img.shields.io/badge/Platform-Windows%20%7C%20macOS%20%7C%20Linux-6B728E?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/BluPizarra/antigravity-cli-statusline)
+[![License: MIT](https://img.shields.io/badge/License-MIT-404258?style=for-the-badge)](LICENSE)
+[![Academic](https://img.shields.io/badge/APC-BSIT%20Information%20Technology-474E68?style=for-the-badge)](https://www.apc.edu.ph/)
 
 > Cross-platform, real-time status line renderer for Google Antigravity CLI (`agy`) featuring active model indicators, dynamic context window visualizers, git branch detection, session quotas, and duration tracking.
 
